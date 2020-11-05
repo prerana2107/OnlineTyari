@@ -1,2 +1,2 @@
 # OnlineTyari
-https://github.com/prerana2107/OnlineTyari
+https://prerana2107.github.io/OnlineTyari/
